@@ -1,0 +1,79 @@
+html.font {
+  /* default 1rem=10px */
+  font-size: 62.5%;
+}
+.component-1 {
+  justify-content: space-between;
+  align-items: center;
+  width: 61%;
+  height: 3.2rem;
+  gap: 20rem;
+}
+.comp-1-inner-cont {
+  display: flex;
+  justify-content: space-between;
+  width: 28.8rem;
+}
+.mail {
+  width: 11.6rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.4rem;
+}
+.svg-envelope {
+  display: inline-block;
+  width: 120%;
+  height: 1.4rem;
+  transform: translate(17%);
+}
+
+.comp-1-text {
+  display: flex;
+  align-items: center;
+  transform: translate(4.5%, -10%);
+  justify-content: flex-start;
+  font-size: 1rem;
+  width: 100rem;
+  height: 1.4rem;
+  letter-spacing: 0.03rem;
+}
+.number-container {
+  display: flex;
+  /* width: 12rem; */
+  align-items: center;
+  justify-content: center;
+  gap: 1.3rem;
+}
+.svg-phone {
+  transform: translate(10%);
+}
+.number {
+  font-size: 1.04rem;
+  max-height: 1.8rem;
+  width: 100%;
+  transform: translate(-2.5%, -7%);
+}
+.height {
+  height: 1rem;
+}
+.nav-icons {
+  display: flex;
+  gap: 1rem;
+}
+.nav-icons-1 {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  font-size: 0.1rem;
+}
+.facebook {
+  transform: translate(-12%, -3%);
+}
+.nav-icons-2 {
+  display: flex;
+  align-items: bottom;
+  justify-content: flex-end;
+  gap: 1.1ren;
+  font-size: 0.1rem;
+  transform: translate(-20%);
+}
