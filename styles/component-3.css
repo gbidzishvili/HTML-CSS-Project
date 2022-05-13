@@ -1,0 +1,74 @@
+.main-container {
+  display: flex;
+  width: 61.1%;
+  /* background-color: blue; */
+  gap: 3.5%;
+}
+.inner-main-cont {
+  display: flex;
+  width: 71%;
+  height: 100%;
+  /* background-color: yellowgreen; */
+}
+.cube {
+  background-color: #9e9e9e;
+  height: 33.4rem;
+  margin-bottom: 2rem;
+}
+.inner-aside-container {
+  width: 33.5%;
+  height: 100px;
+  /* background-color: yellowgreen; */
+}
+.postedby {
+  display: flex;
+  gap: 9.8px;
+  font-size: 1.1rem;
+  transform: translate(0%);
+  font-family: cambay;
+  color: #8799a3;
+  margin-bottom: 1.62rem;
+}
+
+.jessica {
+  transform: translate(-10%);
+}
+.heart-icon {
+  width: 13px;
+}
+.gap {
+  gap: 10px;
+  transform: translate(30%);
+}
+.after-caption {
+  gap: 91px;
+}
+.title {
+  display: flex;
+  font-size: 2rem;
+  font-family: glacialindifference;
+  letter-spacing: 0.55px;
+  transform: translate(-0.1%, -6%);
+}
+.button {
+  border: none;
+  background-color: #ee3364;
+  width: 48px;
+  height: 28px;
+  max-height: 30px;
+  padding: 5px;
+  gap: 3px;
+  transform: translate(2%, -67%);
+  /* padding-bottom: 5px; */
+  align-items: center;
+  justify-content: center;
+}
+.button svg {
+  height: 25px;
+  width: 15px;
+}
+.button span {
+  border: none;
+  color: #fff;
+  font-size: 9px;
+}
