@@ -39,10 +39,11 @@ html.font {
 }
 .number-container {
   display: flex;
-  /* width: 12rem; */
+  width: 12rem;
   align-items: center;
   justify-content: center;
   gap: 1.3rem;
+  transform: translate(5%);
 }
 .svg-phone {
   transform: translate(10%);
@@ -51,7 +52,7 @@ html.font {
   font-size: 1.04rem;
   max-height: 1.8rem;
   width: 100%;
-  transform: translate(-2.5%, -7%);
+  transform: translate(0%, -7%);
 }
 .height {
   height: 1rem;
