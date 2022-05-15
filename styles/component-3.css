@@ -17,7 +17,7 @@
 .inner-aside-container {
   width: 33.5%;
   height: 100px;
-  /* background-color: yellowgreen; */
+  background-color: yellowgreen;
 }
 .postedby {
   display: flex;
@@ -39,13 +39,16 @@
   gap: 10px;
   transform: translate(30%);
 }
+.caption {
+  margin-bottom: 1.9rem;
+}
 .after-caption {
   gap: 91px;
 }
 .title {
   display: flex;
   font-size: 2rem;
-  font-family: glacialindifference;
+  font-family: glacialindifference-bold;
   letter-spacing: 0.55px;
   transform: translate(-0.1%, -6%);
 }
@@ -69,4 +72,77 @@
   border: none;
   color: #fff;
   font-size: 9px;
+}
+.comp-1-text-1 {
+  font-size: 11.59px;
+  font-family: muli-regular;
+  letter-spacing: -0.17px;
+  line-height: 20.9px;
+  margin-bottom: 3.6rem;
+}
+.it-would-be {
+  display: inline-block;
+  transform: translate(0.9%, 0%);
+}
+.sport {
+  display: inline-block;
+  transform: translate(1.6%, 0%);
+}
+.vocabulary {
+  display: inline-block;
+  transform: translate(2.5%, 0%);
+}
+.family {
+  display: inline-block;
+  transform: translate(1.4%, 0%);
+}
+.fam-only {
+  display: inline-block;
+  transform: translate(-4%, 0%);
+}
+.expensive {
+  display: inline-block;
+  transform: translate(1.2%, 0%);
+}
+.why {
+  display: inline-block;
+  transform: translate(5.3%, 0%);
+}
+
+.stic-and-text {
+  width: 100%;
+  gap: 36px;
+  justify-content: space-between;
+  margin-bottom: 2.4rem;
+}
+.stick {
+  width: 6px;
+  height: 72px;
+  background-color: #ee3364;
+  transform: translate(0px, 4px);
+}
+.glacial-italic {
+  font-family: glacialindifference-bold;
+  font-size: 17px;
+  letter-spacing: 0px;
+  word-spacing: -0.1px;
+  transform: translate(2.9px, -3px);
+  line-height: 27px;
+  font-style: italic;
+  color: #999999;
+  font-weight: normal;
+}
+.mock {
+  display: inline-block;
+  transform: translate(-1.6%, 5%);
+}
+.design {
+  display: inline-block;
+  transform: translate(-4%, 8%);
+}
+.margin-bottom-1rem {
+  margin-bottom: 2.7rem;
+}
+.margin-bottom-rem {
+  margin-bottom: 1.4rem;
 }
