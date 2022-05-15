@@ -3,7 +3,7 @@ div.inner-cont-comp-2 {
   justify-content: center;
   width: 100%;
 }
-.component-2 {
+.component-nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -35,8 +35,7 @@ nav ul {
 nav ul li {
   font-size: 12px;
   transform: translate(20%, -7%);
-  font-family: muli;
-  font-weight: bold;
+  font-family: muli-bold;
 }
 nav ul li:hover {
   color: #ee3364;
@@ -58,7 +57,7 @@ nav ul li:hover {
 }
 svg.search-icon {
   display: inline-block;
-  transform: translate(170%, 5%);
+  transform: translate(157%, 0%);
   width: 1.6rem;
 }
 .comp-2-icons::after {
@@ -89,7 +88,7 @@ svg.search-icon {
   font-size: 4rem;
   height: 7.2rem;
   color: #fff;
-  font-family: glacialindifference;
+  font-family: glacialindifference-bold;
 }
 .background span.single {
   display: inline-block;
@@ -98,14 +97,14 @@ svg.search-icon {
   font-size: 4rem;
   height: 7.2rem;
   color: #fff;
-  font-family: glacialindifference;
+  font-family: glacialindifference-bold;
 }
 .text-under-blog {
   display: inline-block;
   color: #8799a3;
   display: flex;
   gap: 1.5rem;
-  font-family: muli;
+  font-family: muli-regular;
   font-size: 12px;
   transform: translate(6%, -50%);
 }
