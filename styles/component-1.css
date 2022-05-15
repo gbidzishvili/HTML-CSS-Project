@@ -2,7 +2,7 @@ html.font {
   /* default 1rem=10px */
   font-size: 62.5%;
 }
-.component-1 {
+.component-1-inner {
   justify-content: space-between;
   align-items: center;
   width: 61%;
@@ -54,27 +54,56 @@ html.font {
   width: 100%;
   transform: translate(0%, -7%);
 }
-.height {
+.height-1rem {
   height: 1rem;
 }
 .nav-icons {
   display: flex;
   gap: 1rem;
+  align-items: center;
 }
 .nav-icons-1 {
   display: flex;
   align-items: center;
-  gap: 0.9rem;
-  font-size: 0.1rem;
+  gap: 1.9rem;
+  color: lightgray;
+}
+.facebook:hover {
+  color: #ee3364;
 }
 .facebook {
   transform: translate(-12%, -3%);
+  width: 1rem;
+  height: 1rem;
+  color: lightgray;
+}
+.fa-twitter {
+  width: 1.5rem;
+  height: 1rem;
+  color: lightgray;
+}
+.fa-twitter:hover {
+  color: #ee3364;
 }
 .nav-icons-2 {
   display: flex;
   align-items: bottom;
   justify-content: flex-end;
   gap: 1.1ren;
-  font-size: 0.1rem;
+  color: lightgray;
+
   transform: translate(-20%);
+}
+.google {
+  transform: translate(-60%, -10%);
+  font-size: 13px;
+}
+.google:hover {
+  color: #ee3364;
+}
+.linkdenin {
+  transform: translate(-50%);
+}
+.linkdenin:hover {
+  color: #ee3364;
 }

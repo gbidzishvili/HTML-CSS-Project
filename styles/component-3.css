@@ -8,7 +8,6 @@
   display: flex;
   width: 71%;
   height: 100%;
-  /* background-color: yellowgreen; */
 }
 .cube {
   background-color: #9e9e9e;
@@ -59,7 +58,6 @@
   padding: 5px;
   gap: 3px;
   transform: translate(2%, -67%);
-  /* padding-bottom: 5px; */
   align-items: center;
   justify-content: center;
 }
