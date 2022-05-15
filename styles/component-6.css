@@ -1,0 +1,52 @@
+.eleg-gap {
+  gap: 5px;
+}
+.elegant {
+  color: #ee3364;
+  font-size: 1rem;
+  transform: translate(6.8px, 0px);
+  letter-spacing: -0.2px;
+}
+
+.glacial-transmition {
+  font-family: glacialindifference-regular;
+  font-size: 1rem;
+  transform: translate(3%, 10%);
+}
+.eleg-cont {
+  margin-bottom: 2.4rem;
+}
+.borders {
+  border-top: 4px solid #ececec;
+  padding: 2.7rem 0 2.9rem 0;
+  border-bottom: 1px solid #ececec;
+}
+.circle {
+  background-color: #ececec;
+  width: 91.4px;
+  height: 91px;
+  width: 52%;
+  border-radius: 50%;
+}
+.montina {
+  font-family: glacialindifference-bold;
+  color: #ee3364;
+  font-size: 1.7rem;
+  letter-spacing: -0.1px;
+  transform: translate(-0.1%, -9%);
+}
+.circle-gap {
+  gap: 2.1rem;
+}
+.duis {
+  font-family: muli-regular;
+  color: #666666;
+  line-height: 2.15rem;
+  transform: translate(-0.3%, 7%);
+  letter-spacing: -0.5px;
+  word-spacing: 1.1px;
+  width: 104%;
+}
+.component-6 {
+  margin-bottom: 2.3rem;
+}
