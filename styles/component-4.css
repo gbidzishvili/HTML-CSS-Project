@@ -1,0 +1,61 @@
+li.flex {
+  align-items: center;
+}
+ul.col {
+  gap: 14px;
+}
+ul.col li {
+  font-family: glacialindifference-regular;
+  font-size: 12px;
+  color: #666666;
+  gap: 9px;
+  letter-spacing: -0.34px;
+}
+li svg {
+  width: 8.1px;
+  height: 11px;
+}
+.bot {
+  margin-bottom: 19px;
+}
+.button-2 {
+  border: none;
+  display: flex;
+  width: 156px;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-color: #ee3364;
+  font-family: glacialindifference-bold;
+  gap: 12px;
+  border-radius: 2px;
+}
+.button-2 span {
+  font-size: 8px;
+  letter-spacing: 0.7px;
+
+  transform: translate(6%, 0%);
+}
+.button-2 svg {
+  width: 12px;
+}
+.cont-gap {
+  gap: 24px;
+}
+.gap61px {
+  gap: 61px;
+  margin-bottom: 2.7rem;
+}
+.Raleway {
+  font-family: raleway;
+  font-weight: 900;
+  font-size: 8px;
+  color: #cccccc;
+  letter-spacing: 0.6px;
+}
+.gradient {
+  transform: translate(0%, -1%);
+  height: 185px;
+  width: 211px;
+}
