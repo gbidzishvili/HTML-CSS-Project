@@ -1,0 +1,60 @@
+.component-8 {
+  width: 100%;
+}
+
+.comp-8-header {
+  justify-content: space-between;
+  gap: 32.7rem;
+  margin-bottom: 2.7rem;
+}
+.comp-8-header-1 {
+  font-family: glacialindifference-bold;
+  font-size: 14.4px;
+  letter-spacing: 1.4px;
+  transform: translate(0.1%, 16.4%);
+}
+.comp-8-header-2 {
+  color: #999999;
+  font-family: muli-regular;
+  font-size: 10px;
+  letter-spacing: -0.24px;
+  transform: translate(3.2%, 27%);
+}
+.block {
+  border: 1px solid #ececec;
+  height: 144px;
+  padding: 18px 5px 0px 23px;
+  gap: 2.3rem;
+}
+.comp-8-square {
+  background-color: #d2d2d2;
+  width: 54px;
+  height: 55px;
+}
+.block-header {
+  transform: translate(0%, 3%);
+  justify-content: space-between;
+  width: 450px;
+}
+.block-header-1 {
+  gap: 10px;
+}
+.scott {
+  font-family: glacialindifference-bold;
+  font-size: 15px;
+  letter-spacing: -0.1px;
+}
+.slash {
+  font-family: "open sans";
+  transform: translate(0%, 18%);
+  color: #cccccc;
+}
+.minutes {
+  font-family: "open sans";
+  transform: translate(0%, 18%);
+  color: #cccccc;
+}
+.down-arrow {
+  color: #cccccc;
+  transform: translate(-112%, -12%);
+}
