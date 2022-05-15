@@ -1,0 +1,36 @@
+@font-face {
+  font-family: glacialindifference-bold;
+  src: url(./fonts/glacialindifference/GlacialIndifference-Bold.woff2)
+    format("woff2");
+}
+@font-face {
+  font-family: glacialindifference-regular;
+  src: url(./fonts/glacialindifference/GlacialIndifference-Regular.woff2)
+    format("woff2");
+}
+@font-face {
+  font-family: BwModelica;
+  src: url(./fonts/bw-modelica/BwModelicaCyrillicDEMO-Regular.woff2)
+    format("woff2");
+}
+@font-face {
+  font-family: muli-light;
+  src: url(./fonts/muli/Muli-Light.woff2) format("woff2");
+}
+.muli-light {
+  font-family: muli-light;
+}
+@font-face {
+  font-family: muli-regular;
+  src: url(./fonts/muli/Muli-SemiBold.woff2) format("woff2");
+}
+.muli-regular {
+  font-family: muli-regular;
+}
+@font-face {
+  font-family: muli-bold;
+  src: url(./fonts/muli/Muli-Bold.woff2) format("woff2");
+}
+.muli-bold {
+  font-family: muli-bold;
+}
