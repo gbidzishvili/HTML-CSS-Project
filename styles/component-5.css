@@ -1,0 +1,77 @@
+.margin-bottom-2rem {
+  margin-bottom: 1.8rem;
+}
+.margin-bottom-1p7rem {
+  margin-bottom: 1.7rem;
+}
+.new-height {
+  height: 316px;
+}
+.it-would-be-2 {
+  display: inline-block;
+  transform: translate(-0.1%, 0);
+  letter-spacing: -0.099px;
+}
+.marg-bot-1p3rem {
+  margin-bottom: 1.3rem;
+}
+.buttons {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 1.9rem;
+}
+.button-3 {
+  border: none;
+  display: flex;
+  width: 131px;
+  height: 29px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-color: #2f5ebe;
+  font-family: glacialindifference-bold;
+  gap: 10px;
+}
+.button-3 svg {
+  color: white;
+}
+.span-svg {
+  transform: translate(-204%, 5%);
+}
+.span-text {
+  transform: translate(-15%, 3%);
+}
+.span-svg-2 {
+  transform: translate(-224%, 5%);
+}
+.span-text-2 {
+  transform: translate(-29%, 0%);
+}
+.color-cyan {
+  background-color: #00d8ff;
+}
+
+.span-svg-3 {
+  transform: translate(-112%, 5%);
+}
+.span-text-3 {
+  transform: translate(-3%, 3%);
+}
+.color-darkgray {
+  background-color: #4a4d54;
+}
+.span-svg-4 {
+  transform: translate(-90%, 5%);
+}
+.span-text-4 {
+  transform: translate(5%, 3%);
+}
+.color-red {
+  background-color: #cb2027;
+}
+.buttons-font {
+  font-size: 10px;
+}
+.square {
+  width: 8px;
+}
