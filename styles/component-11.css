@@ -1,0 +1,141 @@
+.component-11 {
+}
+.component-11 .ul-header-comp-11 {
+  font-family: glacialindifference-bold;
+  font-size: 17px;
+  padding-bottom: 16px;
+  margin-bottom: 24px;
+  color: black;
+}
+.component-11 .ul-header-comp-11-2 {
+  font-family: glacialindifference-bold;
+  font-size: 17px;
+  padding-bottom: 16px;
+  margin-bottom: 27px;
+  color: black;
+}
+
+.ul-comp-11 {
+  border: 1px solid #f1f1f1;
+  width: 100%;
+  height: 277.2px;
+  padding: 26px;
+  padding-top: 30px;
+  box-sizing: border-box;
+  box-shadow: 0px 8px 6px rgba(0, 0, 0, 0.05);
+  list-style: none;
+}
+.ul-comp-11 li {
+  font-size: 11px;
+  font-family: muli-regular;
+  color: #8799a3;
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 9px;
+}
+.ul-first {
+  transform: translate(4px, 0px);
+}
+.ul-second {
+  transform: translate(2%, 40%);
+}
+.ul-third {
+  transform: translate(2%, 72%);
+}
+.ul-fourth {
+  transform: translate(2%, 98%);
+}
+.ul-fifth {
+  transform: translate(2.4%, 132%);
+}
+.ul-marg-bottom {
+  margin-bottom: 34px;
+  display: inline-block;
+}
+.ul-marg-bottom-3 {
+  margin-bottom: 33px;
+  display: inline-block;
+}
+li.border-bottom-none {
+  border-bottom: none;
+}
+.margin-bottom-27px {
+  margin-bottom: 27px;
+}
+.ul-square img {
+  transform: translate(-25.3%, -9%);
+  width: 142px;
+  height: 95px;
+}
+.ul-square {
+  transform: translate(-3px, 1px);
+  width: 68px;
+  height: 54px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.ul-gap {
+  gap: 11.5px;
+}
+.october {
+  font-size: 9.9px;
+}
+.post {
+  font-family: glacialindifference-bold;
+  color: #252525;
+  font-size: 13.4px;
+  transform: translate(0px, 4px);
+}
+.robin {
+  color: #0081ff;
+  font-family: cambay;
+  transform: translate(0%, 10px);
+}
+li.margin-bottom {
+  margin-bottom: 14px;
+}
+.ul-square img.img-friends {
+  transform: translate(-18%, -15%);
+  width: 121px;
+  height: 79px;
+}
+.october-6 {
+  transform: translate(1%, -24%);
+  font-size: 9.9px;
+}
+.post-2 {
+  transform: translate(0%, 27%);
+
+  color: #8799a3;
+}
+.robin-2 {
+  transform: translate(0%, 53%);
+  letter-spacing: -0.5px;
+}
+.img-height {
+  height: 55px;
+}
+.ul-square img.lecture {
+  transform: translate(-22.3%, -4%);
+  width: 101px;
+  height: 69px;
+}
+.september {
+  transform: translate(0%, -23%);
+}
+.post-audio {
+  transform: translate(0%, 23%);
+}
+.admin {
+  transform: translate(0%, 54%);
+  letter-spacing: -0.5px;
+}
+.ul-comp-12 {
+  height: 300px;
+}
+.component-12 .ul-header-comp-11-2 {
+  font-family: glacialindifference-bold;
+  font-size: 17px;
+  padding-bottom: 16px;
+  margin-bottom: 27px;
+  color: black;
+}
