@@ -31,19 +31,19 @@
   padding-bottom: 9px;
 }
 .ul-first {
-  transform: translate(4px, 0px);
+  transform: translate(4px, 2px);
 }
 .ul-second {
-  transform: translate(2%, 40%);
+  transform: translate(2%, 41%);
 }
 .ul-third {
-  transform: translate(2%, 72%);
+  transform: translate(2%, 75%);
 }
 .ul-fourth {
-  transform: translate(2%, 98%);
+  transform: translate(2%, 100%);
 }
 .ul-fifth {
-  transform: translate(2.4%, 132%);
+  transform: translate(2.4%, 138%);
 }
 .ul-marg-bottom {
   margin-bottom: 34px;
