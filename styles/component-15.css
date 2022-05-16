@@ -12,3 +12,40 @@
   transform: translate(2px, -2px);
   overflow: hidden;
 }
+.small-text-15 {
+  font-family: Cambay;
+  color: #bbc7cd;
+  transform: translate(1px, 1.3px);
+  letter-spacing: 0.5px;
+}
+.pink-text-15 {
+  color: #ee3364;
+  font-size: 12px;
+  font-family: GlacialIndifference-bold;
+  transform: translate(-1px, 0.3px);
+  letter-spacing: 0.4px;
+}
+.div-pic-gap {
+  gap: 18px;
+  margin-bottom: 21px;
+}
+.last {
+  letter-spacing: 0.1px;
+  width: 177px;
+  font-size: 10.6px;
+  line-height: 18px;
+  font-family: muli;
+  transform: translate(1px, -4px);
+}
+.google-light {
+  color: lightgray;
+  transform: translate(-6px, -1px);
+}
+.pinterest-light {
+  color: lightgray;
+  transform: translate(-3px, 0px);
+}
+.icons-gap {
+  gap: 13px;
+  transform: translate(2px, 15px);
+}
