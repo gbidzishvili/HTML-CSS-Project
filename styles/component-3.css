@@ -14,12 +14,7 @@
   height: 33.4rem;
   margin-bottom: 2rem;
 }
-.inner-aside-container {
-  max-width: 253.375px;
-  min-width: 253.375px;
-  height: 100px;
-  background-color: yellowgreen;
-}
+
 .postedby {
   display: flex;
   gap: 9.8px;
