@@ -1,0 +1,57 @@
+.comp-9-header {
+  font-family: glacialindifference-bold;
+  font-size: 12px;
+  letter-spacing: 0.13rem;
+  margin-bottom: 2.6rem;
+}
+.input-name-email {
+  justify-content: space-between;
+  transform: translate(0.3%, 1%);
+  margin-bottom: 0.8rem;
+}
+.name {
+  width: 44%;
+  font-family: open sans;
+  font-size: 1rem;
+  padding-left: 19px;
+}
+.email {
+  width: 43.1%;
+  font-family: open sans;
+  font-size: 1rem;
+  padding-left: 25px;
+}
+.url {
+  width: 94.1%;
+  margin-bottom: 0.8rem;
+  font-family: open sans;
+  font-size: 1rem;
+  padding-left: 22px;
+}
+#textarea {
+  margin-bottom: 0.4rem;
+  font-family: open sans;
+  font-size: 1rem;
+  padding-left: 22px;
+  padding: 10px 0 0 20px;
+  border: 1px solid #ececec;
+}
+.sumbmit {
+  border: none;
+  background-color: #ee3364;
+  width: 161.5px;
+  height: 33px;
+  color: #fff;
+  font-family: glacialindifference-bold;
+  cursor: pointer;
+  word-spacing: 2.3px;
+  padding: 5px 15px 5px 0px;
+  font-size: 10px;
+  letter-spacing: -0.1px;
+}
+.subscr {
+  letter-spacing: 0.43px;
+}
+.input-gap {
+  gap: 14px;
+}

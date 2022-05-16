@@ -16,7 +16,7 @@
 .width80 {
   transform: translate(-23.5%, 0px);
   width: 41.7%;
-  height: 100px;
+  height: 100%;
 }
 .flex {
   display: flex;
@@ -59,4 +59,10 @@
 .border-bottom-1px-solid-gray {
   border-bottom: 1px solid lightgray;
   padding-bottom: 14px;
+}
+input {
+  border: none;
+  background-color: none;
+  border: 1px solid #ececec;
+  padding: 9px;
 }
