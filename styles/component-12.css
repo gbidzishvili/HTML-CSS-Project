@@ -1,0 +1,65 @@
+li.margin-bottom {
+  margin-bottom: 14px;
+}
+.ul-square img.img-friends {
+  transform: translate(-18%, -15%);
+  width: 121px;
+  height: 79px;
+}
+.october-6 {
+  transform: translate(1%, -24%);
+  font-size: 9.9px;
+}
+.post-2 {
+  transform: translate(0%, 27%);
+
+  color: #8799a3;
+}
+.robin-2 {
+  transform: translate(0%, 53%);
+  letter-spacing: -0.5px;
+}
+.img-height {
+  height: 55px;
+}
+.ul-square img.lecture {
+  transform: translate(-22.3%, -4%);
+  width: 101px;
+  height: 69px;
+}
+.september {
+  transform: translate(0%, -23%);
+}
+.post-audio {
+  transform: translate(0%, 23%);
+}
+.admin {
+  transform: translate(0%, 54%);
+  letter-spacing: -0.5px;
+}
+.ul-comp-12 {
+  height: 387px;
+}
+.component-12 .ul-header-comp-11-2 {
+  font-family: glacialindifference-bold;
+  font-size: 17px;
+  padding-bottom: 16px;
+  margin-bottom: 27px;
+  color: black;
+}
+li.li-all-news {
+  border-bottom: none;
+}
+.li-button-all-news {
+  background-color: #ee3364;
+  color: #fff;
+  width: 82px;
+  height: 17px;
+  padding: 5px;
+  font-family: "glacialindifference-bold";
+  transform: translate(0px, 7px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+}
