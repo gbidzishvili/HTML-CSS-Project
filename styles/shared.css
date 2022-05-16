@@ -76,3 +76,6 @@ input {
   border: 1px solid #ececec;
   padding: 9px;
 }
+button {
+  cursor: pointer;
+}
