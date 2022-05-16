@@ -1,0 +1,51 @@
+.height-14 {
+  height: 260.2px;
+}
+.translate-nox {
+  transform: translate(-1%, 0%);
+}
+.comp-14-text {
+  font-family: muli;
+  color: #636363;
+  transform: translate(0%, 10%);
+  line-height: 17px;
+  margin-bottom: 21px;
+}
+.div-li {
+  font-family: glacialindifference-bold;
+  margin-bottom: 8px;
+}
+/* .div-li span {
+
+} */
+.div-li-gap {
+  gap: 18px;
+  display: flex;
+}
+.style-span-1 {
+  font-family: glacialindifference-regular;
+  color: #2d2d2d;
+  letter-spacing: 0.3px;
+  transform: translate(-18%, 12%);
+}
+.style-span-2 {
+  font-family: glacialindifference-regular;
+  color: #2d2d2d;
+  letter-spacing: 0.3px;
+  transform: translate(-18%, 12%);
+}
+.fa-phone-flip {
+  transform: translate(15%, 12%);
+}
+.fa-envelope {
+  transform: translate(22%, 0%);
+}
+.contact {
+  padding: 7px 9px;
+  transform: translate(0%, 29%);
+  font-family: Montserrat;
+}
+.contact span {
+  transform: translate(-7%, -11%);
+  letter-spacing: 0.5px;
+}
