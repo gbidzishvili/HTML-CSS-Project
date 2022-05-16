@@ -45,7 +45,13 @@
   color: lightgray;
   transform: translate(-3px, 0px);
 }
+.pinterest-light:hover {
+  color: #ee3364;
+}
 .icons-gap {
   gap: 13px;
   transform: translate(2px, 15px);
+}
+.twitter-trans {
+  transform: translate(-2px, 0px);
 }
