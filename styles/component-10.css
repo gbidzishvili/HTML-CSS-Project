@@ -172,7 +172,8 @@
 }
 .footer-last-lane span {
   color: #616262;
-  transform: translate(-28px, 1px);
-  font-size: 11.5px;
+  transform: translate(-27px, 0px);
+  font-size: 10.4px;
   letter-spacing: 0.08px;
+  font-family: open sans;
 }
