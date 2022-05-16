@@ -44,7 +44,7 @@ li.margin-bottom {
   font-family: glacialindifference-bold;
   font-size: 17px;
   padding-bottom: 16px;
-  margin-bottom: 27px;
+  margin-bottom: 25px;
   color: black;
 }
 li.li-all-news {
@@ -62,4 +62,8 @@ li.li-all-news {
   align-items: center;
   justify-content: center;
   font-size: 8px;
+  cursor: pointer;
+}
+.marg-all-news {
+  margin-top: 16px;
 }
