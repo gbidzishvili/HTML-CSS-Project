@@ -1,4 +1,4 @@
-.compontet-10 {
+.compontet-10-inner {
   width: 100%;
   height: 100%;
   background-color: #202020;
@@ -7,7 +7,7 @@
 }
 .footer-container {
   max-width: 839.062px;
-  height: 240px;
+  height: 194px;
   display: flex;
   justify-content: flex-start;
   padding-top: 46px;
@@ -117,11 +117,62 @@
 }
 .new-tran {
   letter-spacing: 0.6px;
-  transform: translate(12%, 1.3%);
+  transform: translate(2%, 1.3%);
 }
 .margin-left-footer-3 {
   margin-left: 0.5rem;
 }
 .Aenean {
+  font-family: muli;
+  font-size: 10px;
+  margin-bottom: 0.2rem;
+  color: #7f7f7f;
+  transform: translate(7px, 4px);
+  letter-spacing: 0px;
+  line-height: 19px;
+}
+.footer-email {
+  font-family: muli-regular;
   color: #fff;
+  font-size: 11px;
+}
+.foot-email-trans {
+  gap: 5.9px;
+  transform: translate(7px, 4.2px);
+}
+
+.Bmeiox {
+  font-family: muli;
+  font-size: 10.5px;
+  margin-bottom: 0.2rem;
+  color: #7f7f7f;
+  letter-spacing: -0.1px;
+  transform: translate(0px, 1px);
+}
+.phone-cont {
+  transform: translate(4.6px, 7px);
+}
+.foot-let-sp {
+  letter-spacing: 0.1px;
+}
+.phone {
+  transform: translate(2px, 0px);
+}
+.foot-icons {
+  width: 100px;
+  transform: translate(4px, 26px);
+}
+.footer-last-lane {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 54px;
+  width: 100%;
+  background-color: #161616;
+}
+.footer-last-lane span {
+  color: #616262;
+  transform: translate(-28px, 1px);
+  font-size: 11.5px;
+  letter-spacing: 0.08px;
 }
