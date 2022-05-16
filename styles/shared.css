@@ -15,7 +15,7 @@
 }
 .width80 {
   transform: translate(-23.5%, 0px);
-  width: 41.7%;
+  max-width: 562.531px;
   height: 100%;
 }
 .flex {

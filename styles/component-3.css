@@ -1,6 +1,6 @@
 .main-container {
   display: flex;
-  width: 61.1%;
+  max-width: 824.234px;
   /* background-color: blue; */
   gap: 3.5%;
 }
@@ -15,7 +15,8 @@
   margin-bottom: 2rem;
 }
 .inner-aside-container {
-  width: 33.5%;
+  max-width: 253.375px;
+  min-width: 253.375px;
   height: 100px;
   background-color: yellowgreen;
 }
